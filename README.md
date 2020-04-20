@@ -62,4 +62,4 @@ Yardım: **uyguladığımız kuvveti bilseydik olurdu.**
 * Düzgün ivmelenen bir cisim için alınan yol formülü x = (ilk hız+ son hız)/2*t, burdan cismin ilk hızını bulunuz. **1.65m/s buldum. 
 * Daha sonra iş-kinetik enerji teorimini kullanarak sürtünme kuvvetini bulun. Sürtünme kuvvetinden, kinetik sürtünme katsayısını bulunuz.**1.65².½=1.36125 kinetik enerji        1.36125=F.0.675          F=2.01        sonuç=2.62**
 
-3) Bu video'dan statik sürtünme katsayısını bulabilir miydim? **hayır.
+3) Bu video'dan statik sürtünme katsayısını bulabilir miydim? **hayır.**
